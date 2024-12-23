@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\bin\Debug\Cifru +n.exe.config
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\bin\Debug\Cifru +n.exe
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\bin\Debug\Cifru +n.pdb
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\obj\Debug\Cifru +n.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\obj\Debug\Cifru +n.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\obj\Debug\Cifru +n.exe
+C:\Users\victo\source\repos\Cifru +n\Cifru +n\obj\Debug\Cifru +n.pdb

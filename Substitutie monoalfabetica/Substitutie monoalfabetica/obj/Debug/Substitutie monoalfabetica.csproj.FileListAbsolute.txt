@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.exe.config
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.exe
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\bin\Debug\Substitutie monoalfabetica.pdb
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.exe
+C:\Users\victo\source\repos\Substitutie monoalfabetica\Substitutie monoalfabetica\obj\Debug\Substitutie monoalfabetica.pdb

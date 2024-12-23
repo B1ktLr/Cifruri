@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\bin\Debug\Substitutie polialfabetica.exe.config
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\bin\Debug\Substitutie polialfabetica.exe
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\bin\Debug\Substitutie polialfabetica.pdb
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\obj\Debug\Substitutie polialfabetica.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\obj\Debug\Substitutie polialfabetica.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\obj\Debug\Substitutie polialfabetica.exe
+C:\Users\victo\source\repos\Substitutie polialfabetica\Substitutie polialfabetica\obj\Debug\Substitutie polialfabetica.pdb

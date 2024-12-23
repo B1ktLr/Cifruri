@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\bin\Debug\Cifrul lui Cezar.exe.config
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\bin\Debug\Cifrul lui Cezar.exe
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\bin\Debug\Cifrul lui Cezar.pdb
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\obj\Debug\Cifrul lui Cezar.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\obj\Debug\Cifrul lui Cezar.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\obj\Debug\Cifrul lui Cezar.exe
+C:\Users\victo\source\repos\Cifrul lui Cezar\Cifrul lui Cezar\obj\Debug\Cifrul lui Cezar.pdb
